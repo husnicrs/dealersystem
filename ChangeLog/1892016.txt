@@ -1,0 +1,4 @@
+ChangeLog 18/9/2016
+1. Untuk penjualan sebenernya direkomendasikan pake barcode mas, itu saya otomatis tarik semua data dari master (cara entrinya nanti bisa saya remote)
+2. Untuk entri manual saya blm dapet untuk narik harga sebelum direfresh karena itu dipake untuk calculate subtotal
+3. Pembayaran yang melalui ap payment yang payment typenya credit mas

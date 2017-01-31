@@ -1,0 +1,34 @@
+MOM 01 JUNI 2016
+ada 9 bidang 
+<> Masterdata <>
+- Presentase Pencapaian Sasaran
+  Ex. > 100%       -> Sangat Baik
+      90-100%      -> Baik
+      70% - 89.99% -> Cukup baik
+      50% - 69.99% -> Kurang Baik
+      < 49.99%     -> Tidak Baik
+- Bidang-bidang dinas PU
+  > Bid. Sumber daya air                     : Irigasi, Waduk, cumbung, sungai  
+  > Bid. Bina marga                          : Jalan Provinsi, Jembatan (Efektif)
+  > Bid. cipta karya     		     : Bangunan Gedung, Air Bersih, Sanitasi, air minum
+  > Bid. perumahan                           : Rusun, Perumahan
+  > UPTD ALKAL(Balai Peralatan & Perbekalan) : Fungsi Jalan 
+  > UPTD Balai pengujian	             : Labor
+  > UPTD Jasa Konstruksi                     : Bintek (bimbingan teknologi) SDM
+  > UPTD Bina Teknik                         : 
+  > Bag. Sekretariat
+
+Requirement data PU -> PIC = Mbak iit
+- indikator dari percentage "Data Capaian & Target"
+- Maps dari masing-masing lokasi kegiatan dan program 
+- Dokumen gambar & file dari kegiatan dan program 
+
+Requirement Eplanning
+- Eplanning ganti jadi E-Data
+- Indikator Proses "upload completed" dokumen JPEG dan Doxc belum ada 
+- Benerin cetakan Laporan Efektifitas maupun laporan yang lain nya  
+- Buatkan fasilitas untuk upload dokumen dan bisa di download dan bisa export ke word/excel
+  contoh website http://ekbang.jambiprov.go.id/
+  username : Sekretariat
+  Password : 123456 
+- Chart dibuatkan dalam bentuk batang seperti contoh pada laporan LKP 

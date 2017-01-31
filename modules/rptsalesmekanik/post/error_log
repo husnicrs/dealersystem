@@ -1,0 +1,2 @@
+[20-Nov-2016 03:11:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1203): User hondamit_admin already has more than 'max_user_connections' active connections in /home/hondamit/public_html/app/kuningan/lib/Database.php on line 34
+[20-Nov-2016 03:11:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1203): User hondamit_admin already has more than 'max_user_connections' active connections in /home/hondamit/public_html/app/kuningan/lib/Database.php on line 24

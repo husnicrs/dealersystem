@@ -1,0 +1,6 @@
+1. Tembak harga di produksi untuk so yang lama
+2. Buat field baru di roll no (SONO, OrderRef) -> (SO Change, OrderRefChange)
+3. Harga di surat jalan beda
+4. Nomor SO beda antara di surat jalan dengan di produksi
+5. Slip DO dishort berdasarkan qty bruto
+6. Diview subdetail surat jalan dishort berdarkan Qty netto

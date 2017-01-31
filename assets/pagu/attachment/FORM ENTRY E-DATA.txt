@@ -1,0 +1,69 @@
+PROSES ENTRY E-DATA DINAS PU (SEKRETARIAT)
+<>MASTERDATA<>
+==ISI PERIODE== 
+  > Add New
+    > Isi keterangan periode
+    > Tahun mulai periode
+    > Tahun selesai periode
+  > Setelah itu pilih Submit
+
+==ISI BIDANG-BIDANG DI DINAS PU (9 BIDANG)==
+  > Add New
+    > Isi nama bidang
+  > Setelah itu pilih Submit
+
+==ISI SUB BIDANG TURUNAN DARI BIDANG-BIDANG DINAS PU==
+  > Add New 
+    > Isi nama	bidang 
+    > Isi nama sub bidang
+  > Setelah itu pilih Submit
+
+==ISI PROGRAM/KEGIATAN==
+  > Add New
+    > Isi nama program 
+    > Isi keterangan dari program (Jika ada, jika tidak. di kosongkan saja)
+  > Setelah itu pilih Submit
+
+==ISI JENIS PROGRAM/KEGIATAN==
+    (Default RENJA & RENSTRA)
+  > Add New
+    > Isi Nama Jenis Program
+    > Isi keterangan dari jenis program (Jika ada, jika tidak. di kosongkan saja)
+  > Setelah itu pilih Submit 
+
+==ISI Sasaran Strategis==
+  (Sasaran dari program/kegiatan)
+  > Add New
+    > Isi sasaran strategis
+    > Isi keterangan dari sasaran strategis (Jika ada, jika tidak. di kosongkan saja)
+  > Setelah itu pilih Submit 
+
+==ISI Presentase Pencapaian Sasaran==
+  (Parameter Pencapaian Sasaran)
+  > Add New
+    > Isi batas dari presentase
+    > Isi sampai dari presentase
+    > Isi keterangan dari presentase pencapaian sasaran (Jika ada, jika tidak. di kosongkan saja)
+  > Setelah itu pilih Submit
+
+
+
+<>TRANSAKSI<>
+==ISI PERENCANAAN KEGIATAN==
+  > Add New
+  > Pilih kode transaksi
+    - Perencanaan Jangka Pendek
+    - Perencanaan Jangka Panjang
+  > Setelah itu pilih submit
+
+
+
+================================
+Note : Ketika di klik Edit masing-masing periode di masterdata periode
+       tahun mulai dan tahun selesai nya ga save, cuma keterangan nya doang 
+
+
+
+
+
+  

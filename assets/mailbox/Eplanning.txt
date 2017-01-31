@@ -1,0 +1,8 @@
+E-Planning Trouble
+- Setiap Rename (Ganti Nama transaksi)di Icon kertas putih 
+  Menu tsb langsung masuk ke utilities
+- Pengaturan tgl harus nya (24-Apr-2016)
+- Fields Tujuan & Misi pada transaksi "Capaian Perencanaan" buatkan TExtbox aja 
+  tapi dikasih keterangan nama fields nya 
+- Nambahin progress kegiatan di report nya jadi double 
+- Chart nya belum tampil 
